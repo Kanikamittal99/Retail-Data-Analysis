@@ -8,6 +8,6 @@ Visit Tableau Story & dashboards here:
 https://public.tableau.com/app/profile/kanika.mittal/viz/SalesAnalysisDashboard_16874593005610/Dashboard1
 https://public.tableau.com/app/profile/kanika.mittal/viz/SuperstoreCaseStudy_16876991442130/AllRegionsProfitAnalysis
 
-## Below dashboard highlights one of the main issues at hand with a broader perspective for stakeholders
+## Interactive dashboard below highlights one of the main issues at hand with a broader perspective for stakeholders
 ![Dashboard 1](https://github.com/Kanikamittal99/Retail-Data-Analysis/assets/32505627/7852e244-38e5-4632-a312-f1dee846eafc)
 
