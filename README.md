@@ -2,7 +2,7 @@
 
 This is a sample superstore dataset, where we perform extensive data analysis to deliver insights on how the company can increase its profits while minimizing losses.
 
-Dashboards & Stories have been created using the Business Intelligence tool, Tableau. The story consists of relevant worksheets and an interactive dashboard so that users can interact with the story created to find answers to the business questions.
+Dashboards & Stories have been created using the Business Intelligence tool, **Tableau**. The story consists of relevant worksheets and an interactive dashboard so that users can interact with the story created to find answers to the business questions.
 
 Visit Tableau Story & dashboards here:
 https://public.tableau.com/app/profile/kanika.mittal/viz/SalesAnalysisDashboard_16874593005610/Dashboard1
