@@ -11,5 +11,6 @@ https://public.tableau.com/app/profile/kanika.mittal/viz/SuperstoreCaseStudy_168
 ## Interactive dashboard below highlights one of the main issues at hand with a broader perspective for stakeholders
 ![Dashboard 1](https://github.com/Kanikamittal99/Retail-Data-Analysis/assets/32505627/7852e244-38e5-4632-a312-f1dee846eafc)
 
+
 ## Interactive Story below assists Regional managers in making informed decisions
 ![All Regions Profit Analysis](https://github.com/Kanikamittal99/Retail-Data-Analysis/assets/32505627/e8cf1bc5-7964-44aa-b2ea-f8bec460a9d0)
